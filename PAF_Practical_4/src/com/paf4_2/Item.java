@@ -1,5 +1,5 @@
 package com.paf4_2;
-import java.sql.*; //sql
+import java.sql.*;
 
 public class Item {
 
